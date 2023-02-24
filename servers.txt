@@ -1,0 +1,30 @@
+IFS (IhrFussel's Server)
+94.16.121.151:25000
+
+Nico's Survival Server
+45.146.252.207
+
+Dog of War
+dogofwar.freemyip.com:25000
+
+[JMA] Capture the Flag (DE)
+176.9.63.183:30020
+
+Boots Worldwide
+minetest.bootsworldwide.net:30000
+
+[WIP] Coalition Warfare (Guns TDM and TC)
+elkien3.com:30002
+
+Capture the Flag
+ctf.rubenwardy.com:30001
+
+Varcia Modded Anarchy
+varcia.edgy1.net:30032
+
+*** Baobab Nation ***
+85.168.33.9:30001
+
+Asia Thailand [v5] - LOW server lag - solar power
+asiathailand.ddns.net:30001
+
