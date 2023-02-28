@@ -2,7 +2,7 @@ IFS (IhrFussel's Server)
 94.16.121.151:25000
 
 Nico's Survival Server
-45.146.252.207
+45.146.252.207:30000
 
 Dog of War
 dogofwar.freemyip.com:25000
@@ -12,6 +12,11 @@ dogofwar.freemyip.com:25000
 
 Boots Worldwide
 minetest.bootsworldwide.net:30000
+
+daconcepts.com:37000
+
+Inside the Box
+minetest.foo-projects.org:30394
 
 [WIP] Coalition Warfare (Guns TDM and TC)
 elkien3.com:30002
